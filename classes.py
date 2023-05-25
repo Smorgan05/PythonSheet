@@ -1,3 +1,4 @@
+# Class with Dictionary in a List
 class Example():
     def __init__(self):
         self.__pList = []

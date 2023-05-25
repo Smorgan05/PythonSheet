@@ -27,6 +27,8 @@ myfloat = 22.75
 #   "model": "Mustang",
 #   "year": 1964
 # }
+# Add to dictionary
+#thisdict["color"] = "red"
 
 # print(mystr.index("This"))
 
